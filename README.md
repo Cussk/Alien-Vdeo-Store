@@ -2,7 +2,7 @@
  
  Guided project for the Unity Creative Core learning pathway.  Taking Unity core design principles and applying them to the provided scene to make it more dynamic and engaging.  
  
- Unity Core Areas used for prohect requirements:
+ Unity Core Areas used for project requirements:
  
 Shaders / Materials Lighting Animation:
 - Colorful cartoon-style materials with bright colors
