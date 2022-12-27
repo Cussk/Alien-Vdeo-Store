@@ -22,7 +22,11 @@ VFX:
 - Shooting stars in the sky that the viewer can see out the window
 - Steam coming from air conditioning vent
 
-Cameras:7- Multiple camera angle options, including Մ1Յ a wide angle shot that captures the entire store, Մ2Յ a mid-range shot that focuses on the alien, and Մ3Յ a close-up shot that features the shooting stars.
+Cameras:
+- Multiple camera angle options, including:
+ 1.  A wide angle shot that captures the entire store.
+ 2.  A mid-range shot that focuses on the alien. 
+ 3.  A close-up shot that features the shooting stars.
 
 Post-processing:
 - More vibrant colors
