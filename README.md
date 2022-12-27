@@ -40,3 +40,12 @@ Audio:
 UI:
 - Buttons to switch between camera angles
 - Menu with audio controls
+
+![Screenshot (21)](https://user-images.githubusercontent.com/108804713/209711616-62ab8974-f7fd-4b12-9db5-bb1bf048939d.png)
+![Screenshot (22)](https://user-images.githubusercontent.com/108804713/209711618-5fb3e99b-1d34-478c-b18a-f0bc435bfdb5.png)
+![Screenshot (23)](https://user-images.githubusercontent.com/108804713/209711620-e0238abe-6610-4352-ba12-ae086b3dfd16.png)
+
+
+https://user-images.githubusercontent.com/108804713/209712728-6c440d11-f571-4c60-a147-a6dded591899.mp4
+
+
